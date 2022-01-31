@@ -1,0 +1,14 @@
+{
+  "resourceName": "sohamyogafile",
+  "policyUUID": "4c9f8906",
+  "bucketName": "sohamyogabucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger9425a30e",
+  "groupAccess": {}
+}
